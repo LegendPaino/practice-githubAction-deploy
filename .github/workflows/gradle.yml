@@ -16,8 +16,8 @@ on:
 permissions:
   contents: read
 
-  env:
-    S3_BUCKET_NAME: be-13-legendpaino
+env:
+  S3_BUCKET_NAME: be-13-legendpaino
 
 jobs:
   build:
